@@ -22,7 +22,9 @@
 - [Recommended FHIR API Implementation Principles](https://datica.com/academy/recommended-fhir-api-implementation-principles/)
 - [A HEALTHCARE INTEROPERABILITY PRIMER PART 1: HL7 AND JARGON](https://www.redoxengine.com/library/healthcare-interoperability-primer-hl7)
 - [10 REASONS WHY FHIR IS "BETTER"](https://www.redoxengine.com/library/fhir-better)
-- []()
-- []()
-- []()
-- []()
+
+### slides
+- [IHE France on FHIR](https://www.slideshare.net/ewoutkramer/ihe-france-morning)
+- [HL7 FHIR Training course](https://www.slideshare.net/ewoutkramer/afternoon-32654292)
+- [HL7 Fhir for Developers](https://www.slideshare.net/ewoutkramer/hl7-fhir-for-developers)
+- [FHIR architecture overview for non-programmers](https://www.slideshare.net/DevDays2014/fhir-architecture-overview-for-nonprogrammers-ren-spronk)
