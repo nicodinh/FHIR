@@ -7,7 +7,7 @@
 
 ### DSTU-2
 - [FHIRbase - Open source storage based on the FHIR standard ready for use in production](http://fhirbase.github.io/index.html)
-- []()
+- [Aidbox is a FHIR server as a service based on FHIRbase](https://aidbox.io/docs/Features.html)
 
 
 ## Client
