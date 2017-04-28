@@ -37,3 +37,4 @@
 - [dre-fhir-client: Implements a FHIR Client for DRE](https://www.npmjs.com/package/dre-fhir-client)
 - [fhir-swagger: Generate Swagger from a FHIR conformance profile](https://www.npmjs.com/package/fhir-swagger)
 - [HAPI-FHIR: implementation of the FHIR specification in Java](http://hapifhir.io/)
+- [Health Samurai: We develop modern digital health products with use of HL7® FHIR® standard](http://health-samurai.io/)
