@@ -21,11 +21,8 @@
 - [Publicly Available FHIR Servers for testing](http://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing)
 - [Recommended FHIR API Implementation Principles](https://datica.com/academy/recommended-fhir-api-implementation-principles/)
 - [A HEALTHCARE INTEROPERABILITY PRIMER PART 1: HL7 AND JARGON](https://www.redoxengine.com/library/healthcare-interoperability-primer-hl7)
-- [10 REASONS WHY FHIR IS "BETTER"](https://www.redoxengine.com/library/fhir-better)
-
-
+- [10 REASONS WHY FHIR IS "BETTER"](https://www.redoxengine.com/library/fhir-better) 
 - [FHIR® tutorials](https://fhir-drills.github.io/index.html)
-
 
 ### slides
 - [IHE France on FHIR](https://www.slideshare.net/ewoutkramer/ihe-france-morning)
